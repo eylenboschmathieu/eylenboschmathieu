@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋
+Hobbyist programmer for 10+ years!
 
 <!--
 **eylenboschmathieu/eylenboschmathieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
